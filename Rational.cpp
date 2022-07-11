@@ -1,3 +1,6 @@
+//Building the rational numbers class
+
+
 #include <iostream>
 #include <string>
 #include <map>
