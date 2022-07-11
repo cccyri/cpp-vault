@@ -1,3 +1,5 @@
+//Building the matrix class with all needed methods/constructors
+
 #include <iostream>
 #include <vector>
 
